@@ -1,2 +1,5 @@
-# style-guide
-A simple style guide - a Codecademy project
+# Style Guide Project
+### A simple style guide | a Codecademy project, 2021
+
+
+# Live Site:

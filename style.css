@@ -93,7 +93,7 @@ body {
 
 .hero-image {
   /* background-color: rgba(187, 192, 190, 0.363); */
-  background: url('/img/painting.jpg') no-repeat center center/cover;
+  background: url('painting.jpg') no-repeat center center/cover;
   height: 30vh;
   width: 100%;
   display: flex;
